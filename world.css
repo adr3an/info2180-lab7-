@@ -1,0 +1,48 @@
+h1 {
+    background-color: black;
+    height:  125px;
+    width: 10000px;
+    color: blue;
+    font-size: 50px;
+    margin: auto;
+    
+}
+
+
+
+label {
+    font-size: 20px;
+    color: white;
+}
+
+button {
+    height: 33px;
+    border-radius: 8px;
+    margin: auto;
+}
+input {
+    border-radius: 5px;
+    height: 30px;
+    font-size: 15px;
+}
+
+#controls {
+    background-color: blue;
+    height: 100px;
+    width: 10000px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    }
+
+#result {
+    background-color: black;
+    border-radius: 10px;
+    width: 915px;
+    margin: 10px;
+    padding: 10px;
+    font-family: "Times New Roman";
+    
+}
+
+
